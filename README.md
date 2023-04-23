@@ -1,4 +1,4 @@
-# A-Multi-Lingual-Chatbot-for-Language-Translation-and-Communication
+# A Multi Lingual Chatbot for Language Translation and Communication
 This Python code is a voice assistant that can understand speech and respond with spoken words. It uses several Python libraries to perform different functions.
 
 The code starts by importing several libraries that will be used later on, such as speech_recognition, pyttsx3, and pywhatkit. It also imports different modules to enable web searches, language translation, text-to-speech conversion, and audio playback.
